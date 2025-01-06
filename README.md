@@ -3,6 +3,7 @@
 ![Little Lemon Logo](https://github.com/ngmtri20901/MetaSoftwareCert/blob/Front-end/src/images/Logo-yellow-horizon.png)
 
 **Live Demo:** [lemon.software.mintrishere.com](https://lemon.software.mintrishere.com)
+**Figma Design:** [Figma](https://www.figma.com/proto/4LePxU1nNDxXOY6XM5y8JA/LittleLemon?node-id=26-339&p=f&t=9s8FRjsD2hUFxKky-1&scaling=min-zoom&content-scaling=fixed&page-id=26%3A338)
 
 ## Table of Contents
 

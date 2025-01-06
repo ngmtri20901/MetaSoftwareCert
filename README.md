@@ -132,7 +132,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-**Project Owner:** Nguyễn Minh Tri
+**Project Owner:** Nguyễn Minh Trí
 
 - **Email:** ngmtri20901.work@gmail.com
 - **LinkedIn:** [linkedin.com/in/ngmtri20901](https://www.linkedin.com/in/ngmtri20901)

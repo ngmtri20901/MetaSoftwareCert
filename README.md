@@ -1,6 +1,6 @@
 # Little Lemon Frontend
 
-![Little Lemon Logo](public/logo192.png)
+![Little Lemon Logo](https://github.com/ngmtri20901/MetaSoftwareCert/blob/Front-end/src/images/Logo-yellow-horizon.png)
 
 **Live Demo:** [lemon.software.mintrishere.com](https://lemon.software.mintrishere.com)
 

@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.dashed-line-50 {
+    @apply border-r-2 border-dashed border-gray-500 h-20 items-center justify-center pt-7;
+  }
+
+.info-shadow {
+    @apply shadow-[0px_45px_112px_0px_rgba(0,0,0,0.06),0px_9px_18.2px_0px_rgba(0,0,0,0.03),0px_22.78px_48.83px_0px_rgba(0,0,0,0.04),0px_1.97px_6.47px_0px_rgba(0,0,0,0.02)]
+}
